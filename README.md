@@ -26,7 +26,7 @@ Thanks to the awesome guys at [JetBrains](https://www.jetbrains.com/) the plugin
 _EAP releases only partly supported_
 
 ## Installation
-1. [Open the Settings/Preferences dialog](https://www.jetbrains.com/idea/help/accessing-settings.html#openIdeSettings) (OSX/Unix: <kbd>⌘,</kbd>, Linux: <kbd>Ctrl-Shift+A/kbd>,  Windows: <kbd>Ctrl+Alt+S</kbd>)
+1. [Open the Settings/Preferences dialog](https://www.jetbrains.com/idea/help/accessing-settings.html#openIdeSettings) (OSX/Unix: <kbd>⌘,</kbd>, Linux: <kbd>Ctrl-Shift+A</kbd>,  Windows: <kbd>Ctrl+Alt+S</kbd>)
 2. In the left-hand pane, select **Plugins**.
 3. Click **Browse repositories...** and search for `Material Theme UI`
 4. Click **Install plugin** and confirm your intention to download and install the plugin.
